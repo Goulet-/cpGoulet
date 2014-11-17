@@ -1,0 +1,130 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#image {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 0.07592711%;
+    margin-top: 0px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 65.865538%;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 0.15185422%;
+    margin-top: 15px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 27.814707%;
+    margin-right: 0%;
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 0.07592711%;
+    margin-top: 0px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 27.890558%;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 34.400309%;
+    margin-top: -288.84375px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 27.814631%;
+}
+
+#image4 {
+    float: left;
+    width: auto;
+    max-width: 27.814631%;
+    height: auto;
+    margin-left: -27.814631%;
+    margin-top: 37.421875px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 1.7em;
+    width: 61.619512%;
+    height: auto;
+    text-align: left;
+    font-weight: 500;
+    line-height: 1em;
+    margin-left: 20.435049%;
+    clear: none;
+    min-height: 88px;
+    margin-right: 0%;
+    font-family: verdana;
+    margin-top: -4px;
+}
+
+#text1 {
+    float: left;
+    font-size: 1.3em;
+    width: 41.541353%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 24.397911%;
+    margin-top: 0px;
+    clear: both;
+    min-height: 118px;
+    margin-right: 0%;
+    font-family: verdana;
+}
+
+#text2 {
+    float: left;
+    font-size: 1.4em;
+    width: 48.081841%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 26.317402%;
+    margin-top: 34.03125px;
+    clear: both;
+    min-height: 49px;
+    text-decoration: none;
+    font-family: verdana;
+}
+
+#image5 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 31.095482%;
+    margin-top: 52.359375px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    max-width: 34.77062%;
+    display: block;
+    margin-right: 0%;
+}
+
